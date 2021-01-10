@@ -1,0 +1,13 @@
+table{
+  width: 100%;
+}
+.mat-tab-label, .mat-tab-link{
+  color: #000000 !important;
+}
+.card{
+  background:  gray;
+  border-radius: 10px ;
+}
+table{
+  border-radius: 10px ;
+}
